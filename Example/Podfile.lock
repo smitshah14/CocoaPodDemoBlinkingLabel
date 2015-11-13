@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  CocoaPodDemoBlinkingLabel: 234567a92411be6088e4fa3e7d5954bfdfb1ca95
+  CocoaPodDemoBlinkingLabel: 623fae362ae56794d7179b8093b2e986e5a4a5c1
 
 COCOAPODS: 0.38.2
