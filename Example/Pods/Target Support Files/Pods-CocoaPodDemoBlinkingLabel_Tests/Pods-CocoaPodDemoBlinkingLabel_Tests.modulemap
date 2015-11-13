@@ -1,0 +1,6 @@
+framework module Pods_CocoaPodDemoBlinkingLabel_Tests {
+  umbrella header "Pods-CocoaPodDemoBlinkingLabel_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

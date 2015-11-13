@@ -1,0 +1,14 @@
+PODS:
+  - CocoaPodDemoBlinkingLabel (0.1.0)
+
+DEPENDENCIES:
+  - CocoaPodDemoBlinkingLabel (from `../`)
+
+EXTERNAL SOURCES:
+  CocoaPodDemoBlinkingLabel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CocoaPodDemoBlinkingLabel: 234567a92411be6088e4fa3e7d5954bfdfb1ca95
+
+COCOAPODS: 0.38.2
